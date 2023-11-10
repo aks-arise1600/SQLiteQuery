@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sqlite_example.dir/sqlite_example_autogen/mocs_compilation.cpp.o CMakeFiles/sqlite_example.dir/main.cpp.o -o sqlite_example  -lSQLiteQuery /usr/lib/x86_64-linux-gnu/libQt5Sql.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 

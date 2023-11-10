@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MySqlGUI.dir/MySqlGUI_autogen/mocs_compilation.cpp.o CMakeFiles/MySqlGUI.dir/main.cpp.o -o MySqlGUI  -lSQLiteQuery /usr/lib/x86_64-linux-gnu/libQt5Sql.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 
