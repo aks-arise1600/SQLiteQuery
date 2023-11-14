@@ -13,6 +13,10 @@ TEMPLATE = lib
 
 CONFIG += static
 
+MOC_DIR = moc
+OBJECTS_DIR =  obj
+
+
 DEFINES += SQLITEQUERY_LIBRARY
 
 # The following define makes your compiler emit warnings if you use

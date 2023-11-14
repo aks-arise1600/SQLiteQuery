@@ -9,6 +9,9 @@ CONFIG -= app_bundle
 
 TEMPLATE = app
 
+MOC_DIR = moc
+OBJECTS_DIR = obj
+
 SOURCES += main.cpp
 
 # The following define makes your compiler emit warnings if you use
