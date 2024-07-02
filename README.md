@@ -14,7 +14,7 @@ Qt based SQLite configure and queries
 
 ## Cmake build
 
-		git clone https://github.com/anil-arise1600/SQLiteQuery.git
+		git clone https://github.com/aks-arise1600/SQLiteQuery.git
 		cd SQLiteQuery
 		mkdir cBuild && cd cBuild
 		cmake ..
@@ -23,7 +23,7 @@ Qt based SQLite configure and queries
 		
 ## Qmake build
 
-		git clone https://github.com/anil-arise1600/SQLiteQuery.git
+		git clone https://github.com/aks-arise1600/SQLiteQuery.git
 		cd SQLiteQuery
 		mkdir qBuild && cd qBuild
 		qmake ..
